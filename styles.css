@@ -65,7 +65,7 @@ em {
 }
 
 /* navigation bar */
-.kuntiniong {
+.IainBowman {
   padding: 5px;
 
   top: 0;
@@ -76,12 +76,12 @@ em {
   pointer-events: none;
 }
 
-.kuntiniong > * {
+.IainBowman > * {
   pointer-events: auto; /* allows interaction abeilt overlapping */
 }
 
-.kuntiniong a {
-  font-family: "Cedarville Cursive", Arial;
+.IainBowman a {
+  font-family: "Arial Black", Arial;
 
   font-size: 25px;
   font-weight: 1000;
