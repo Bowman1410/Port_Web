@@ -369,7 +369,7 @@ em {
     column-count: 1;
   }
 
-  /* disable the images */
+  /* disable the Images */
   .project-item {
     display: grid;
     grid-template-columns: 1fr 0;
